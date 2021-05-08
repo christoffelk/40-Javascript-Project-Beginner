@@ -1,0 +1,17 @@
+.container
+{
+    margin: auto;
+    text-align: center;
+}
+.container h2
+{
+    background-color: black;
+    color: white;
+    width: 280px;
+    margin-left: 370px;
+}
+.btn
+{
+    background-color: red;
+    border-color: black;
+}
